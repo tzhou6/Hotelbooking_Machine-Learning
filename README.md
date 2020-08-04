@@ -12,7 +12,7 @@
 * Data Resource: https://www.kaggle.com/jessemostipak/hotel-booking-demand
 
 # Features 
-* ADR	       Average Daily Rate as defined by [5]
+* ADR	       Average Daily Rate as defined
 * Adults	       Number of adults
 * Agent	       ID of the travel agency that made the bookinga
 * ArrivalDateDayOfMonth	       Day of the month of the arrival date
